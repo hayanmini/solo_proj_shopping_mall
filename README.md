@@ -1,1 +1,2 @@
-# solo_proj_shopping_mall
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
