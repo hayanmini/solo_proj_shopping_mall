@@ -1,0 +1,1 @@
+# solo_proj_shopping_mall
