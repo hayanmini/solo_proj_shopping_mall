@@ -9,6 +9,7 @@ Dart 언어로 구현한 콘솔 기반 쇼핑몰 프로그램입니다.
 
 ## 📦 프로젝트 구조
 
+```dart
 /shopping_mall
 ├── bin/ # 실행 파일
 │ └── shopping_mall.dart
@@ -17,6 +18,7 @@ Dart 언어로 구현한 콘솔 기반 쇼핑몰 프로그램입니다.
 ├── test/ # 테스트 파일 (필요시)
 ├── pubspec.yaml # 의존성 및 메타 정보
 └── README.md # 프로젝트 설명 파일
+```
 
 ---
 
